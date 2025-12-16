@@ -11,10 +11,15 @@ This project is a private Discord bot designed to remotely control a Minecraft B
 
 ```
 discord-server-control/
+
 ├─ index.js
+
 ├─ .env
+
 ├─ package.json
+
 ├─ node_modules/
+
 └─ README.md
 ```
 
@@ -124,21 +129,4 @@ This project is for personal and educational use only.
 
 ---
 
-## 📝 Dicas extras
-
-✅ **`.gitignore`** já está certo para evitar que arquivos sensíveis subam  
-(verifica se ele contém `.env` e `node_modules/`)
-
-Se quiser, posso também:
-
-✔️ Melhorar o **TERMS.md**  
-✔️ Melhorar o **PRIVACY.md**  
-✔️ Criar uma **página Wiki** explicando cada comando  
-✔️ Configurar **Actions** para deploy automático
-
-Só dizer o que você quer! 🚀
-
----  
-Se precisar de ajuda editando o próprio GitHub ou quiser que eu te mande o conteúdo pronto para os arquivos de **Terms** e **Privacy**, é só pedir 🙂
-::contentReference[oaicite:1]{index=1}
 ```
