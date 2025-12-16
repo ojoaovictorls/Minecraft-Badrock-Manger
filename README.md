@@ -39,7 +39,9 @@ DISCORD_TOKEN=YOUR_DISCORD_BOT_TOKEN
 Edit the following paths inside index.js according to your system:
 
 const BEDROCK_DIR = "C:/ServidorBedrock";
+
 const BEDROCK_EXE = "bedrock_server.exe";
+
 const PLAYIT_EXE = "playit.exe";
 
 ### Discord Commands
