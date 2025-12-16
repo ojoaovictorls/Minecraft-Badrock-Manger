@@ -45,7 +45,9 @@ const PLAYIT_EXE = "playit.exe";
 ### Discord Commands
 Command	Description
 !server on	Starts the Bedrock server and playit
+
 !server off	Stops the Bedrock server and playit
+
 !status	Shows the server status
 
 ### Running the Bot
