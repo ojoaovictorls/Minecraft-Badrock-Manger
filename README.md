@@ -7,9 +7,7 @@ This project is a private Discord bot designed to remotely control a Minecraft B
 
 ## 📁 Project Structure
 
-```
 
-```
 discord-server-control/
 
 ├─ index.js
@@ -21,9 +19,7 @@ discord-server-control/
 ├─ node_modules/
 
 └─ README.md
-```
 
-````
 
 ---
 
